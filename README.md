@@ -1,0 +1,1 @@
+# cleanmyshot-local-c2pa-synthid-scrubber
